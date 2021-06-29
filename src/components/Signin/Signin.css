@@ -1,0 +1,7 @@
+.hover-black:hover {
+    background-color: #000 !important;
+}
+
+.hover-black{
+    outline: #000;
+}
